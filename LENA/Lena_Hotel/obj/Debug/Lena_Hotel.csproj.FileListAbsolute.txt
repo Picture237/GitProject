@@ -1,0 +1,284 @@
+F:\Projet Important\Lena_Hotel\Lena_Hotel\bin\Debug\Lena_Hotel.exe.config
+F:\Projet Important\Lena_Hotel\Lena_Hotel\bin\Debug\Lena_Hotel.exe
+F:\Projet Important\Lena_Hotel\Lena_Hotel\bin\Debug\Lena_Hotel.pdb
+F:\Projet Important\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.csprojResolveAssemblyReference.cache
+F:\Projet Important\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.Form1.resources
+F:\Projet Important\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.Properties.Resources.resources
+F:\Projet Important\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.csproj.GenerateResource.Cache
+F:\Projet Important\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.exe
+F:\Projet Important\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.pdb
+F:\Projet Important\Lena_Hotel\Lena_Hotel\bin\Debug\CoffreFort.dll
+F:\Projet Important\Lena_Hotel\Lena_Hotel\bin\Debug\MaterialSkin.dll
+F:\Projet Important\Lena_Hotel\Lena_Hotel\bin\Debug\CoffreFort.pdb
+F:\Projet Important\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.Home.resources
+F:\Projet Important\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.Planning.resources
+F:\Projet Important\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.StatClient.resources
+F:\Projet Important\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.EtatLocaux.resources
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lena_Hotel\bin\Debug\Lena_Hotel.exe.config
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.exe
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.pdb
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lena_Hotel\bin\Debug\Lena_Hotel.exe
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lena_Hotel\bin\Debug\Lena_Hotel.pdb
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.Form1.resources
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.Home.resources
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.Properties.Resources.resources
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.StatClient.resources
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lena_Hotel\bin\Debug\Lena.BLL.dll
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lena_Hotel\bin\Debug\Lena.BO.dll
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lena_Hotel\bin\Debug\Coffre_Fort.dll
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lena_Hotel\bin\Debug\Lena.BLL.pdb
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lena_Hotel\bin\Debug\Lena.BO.pdb
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lena_Hotel\bin\Debug\Coffre_Fort.pdb
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lena_Hotel\bin\Debug\Lenas.DAL.dll
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lena_Hotel\bin\Debug\Lenas.DAL.pdb
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lena_Hotel\bin\Debug\aa\Lena_Hotel.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lena_Hotel\bin\Debug\fr-CD\Lena_Hotel.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lena_Hotel\bin\Debug\fr-FR\Lena_Hotel.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lena_Hotel\bin\Debug\fr-MA\Lena_Hotel.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.Form1.aa.resources
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.Form1.fr-CD.resources
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.Form1.fr-FR.resources
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.Form1.fr-MA.resources
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lena_Hotel\obj\Debug\aa\Lena_Hotel.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lena_Hotel\obj\Debug\fr-CD\Lena_Hotel.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lena_Hotel\obj\Debug\fr-FR\Lena_Hotel.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lena_Hotel\obj\Debug\fr-MA\Lena_Hotel.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.Facture.resources
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lena_Hotel\obj\Debug\RdlCompile.cache
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lena_Hotel\obj\Debug\RdlCompile.compiled
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lena_Hotel\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.SpashScreem.resources
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.FormHome_Stat.resources
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.StatFacture.resources
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.StatistiqueC.resources
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.StatLocaux.resources
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.FrmChoice.resources
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.frmFactChoice.resources
+C:\Users\Picture\Documents\Lena_Hotel\Lena_Hotel\bin\Debug\Lena_Hotel.exe.config
+C:\Users\Picture\Documents\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.exe
+C:\Users\Picture\Documents\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.pdb
+C:\Users\Picture\Documents\Lena_Hotel\Lena_Hotel\bin\Debug\Lena_Hotel.exe
+C:\Users\Picture\Documents\Lena_Hotel\Lena_Hotel\bin\Debug\Lena_Hotel.pdb
+C:\Users\Picture\Documents\Lena_Hotel\Lena_Hotel\bin\Debug\aa\Lena_Hotel.resources.dll
+C:\Users\Picture\Documents\Lena_Hotel\Lena_Hotel\bin\Debug\fr-CD\Lena_Hotel.resources.dll
+C:\Users\Picture\Documents\Lena_Hotel\Lena_Hotel\bin\Debug\fr-FR\Lena_Hotel.resources.dll
+C:\Users\Picture\Documents\Lena_Hotel\Lena_Hotel\bin\Debug\fr-MA\Lena_Hotel.resources.dll
+C:\Users\Picture\Documents\Lena_Hotel\Lena_Hotel\bin\Debug\Lena.BLL.dll
+C:\Users\Picture\Documents\Lena_Hotel\Lena_Hotel\bin\Debug\Lena.BO.dll
+C:\Users\Picture\Documents\Lena_Hotel\Lena_Hotel\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Picture\Documents\Lena_Hotel\Lena_Hotel\bin\Debug\Lenas.DAL.dll
+C:\Users\Picture\Documents\Lena_Hotel\Lena_Hotel\bin\Debug\Coffre_Fort.dll
+C:\Users\Picture\Documents\Lena_Hotel\Lena_Hotel\bin\Debug\Lena.BLL.pdb
+C:\Users\Picture\Documents\Lena_Hotel\Lena_Hotel\bin\Debug\Lena.BO.pdb
+C:\Users\Picture\Documents\Lena_Hotel\Lena_Hotel\bin\Debug\Lenas.DAL.pdb
+C:\Users\Picture\Documents\Lena_Hotel\Lena_Hotel\bin\Debug\Coffre_Fort.pdb
+C:\Users\Picture\Documents\Lena_Hotel\Lena_Hotel\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Picture\Documents\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.csprojResolveAssemblyReference.cache
+C:\Users\Picture\Documents\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.Facture.resources
+C:\Users\Picture\Documents\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.Form1.resources
+C:\Users\Picture\Documents\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.FormHome_Stat.resources
+C:\Users\Picture\Documents\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.FrmChoice.resources
+C:\Users\Picture\Documents\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.frmFactChoice.resources
+C:\Users\Picture\Documents\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.Home.resources
+C:\Users\Picture\Documents\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.Properties.Resources.resources
+C:\Users\Picture\Documents\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.SpashScreem.resources
+C:\Users\Picture\Documents\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.StatClient.resources
+C:\Users\Picture\Documents\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.StatFacture.resources
+C:\Users\Picture\Documents\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.StatistiqueC.resources
+C:\Users\Picture\Documents\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.StatLocaux.resources
+C:\Users\Picture\Documents\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.Form1.aa.resources
+C:\Users\Picture\Documents\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.Form1.fr-CD.resources
+C:\Users\Picture\Documents\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.Form1.fr-FR.resources
+C:\Users\Picture\Documents\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.Form1.fr-MA.resources
+C:\Users\Picture\Documents\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.csproj.GenerateResource.Cache
+C:\Users\Picture\Documents\Lena_Hotel\Lena_Hotel\obj\Debug\RdlCompile.cache
+C:\Users\Picture\Documents\Lena_Hotel\Lena_Hotel\obj\Debug\RdlCompile.compiled
+C:\Users\Picture\Documents\Lena_Hotel\Lena_Hotel\obj\Debug\aa\Lena_Hotel.resources.dll
+C:\Users\Picture\Documents\Lena_Hotel\Lena_Hotel\obj\Debug\fr-CD\Lena_Hotel.resources.dll
+C:\Users\Picture\Documents\Lena_Hotel\Lena_Hotel\obj\Debug\fr-FR\Lena_Hotel.resources.dll
+C:\Users\Picture\Documents\Lena_Hotel\Lena_Hotel\obj\Debug\fr-MA\Lena_Hotel.resources.dll
+G:\ECOLE\TIC deuxieme anné\cours\Deuxieme trimestre\ASP.NET\Lena_Hotel\Lena_Hotel\bin\Debug\Lena_Hotel.exe.config
+G:\ECOLE\TIC deuxieme anné\cours\Deuxieme trimestre\ASP.NET\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.exe
+G:\ECOLE\TIC deuxieme anné\cours\Deuxieme trimestre\ASP.NET\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.pdb
+G:\ECOLE\TIC deuxieme anné\cours\Deuxieme trimestre\ASP.NET\Lena_Hotel\Lena_Hotel\bin\Debug\Lena_Hotel.exe
+G:\ECOLE\TIC deuxieme anné\cours\Deuxieme trimestre\ASP.NET\Lena_Hotel\Lena_Hotel\bin\Debug\Lena_Hotel.pdb
+G:\ECOLE\TIC deuxieme anné\cours\Deuxieme trimestre\ASP.NET\Lena_Hotel\Lena_Hotel\bin\Debug\aa\Lena_Hotel.resources.dll
+G:\ECOLE\TIC deuxieme anné\cours\Deuxieme trimestre\ASP.NET\Lena_Hotel\Lena_Hotel\bin\Debug\fr-CD\Lena_Hotel.resources.dll
+G:\ECOLE\TIC deuxieme anné\cours\Deuxieme trimestre\ASP.NET\Lena_Hotel\Lena_Hotel\bin\Debug\fr-FR\Lena_Hotel.resources.dll
+G:\ECOLE\TIC deuxieme anné\cours\Deuxieme trimestre\ASP.NET\Lena_Hotel\Lena_Hotel\bin\Debug\fr-MA\Lena_Hotel.resources.dll
+G:\ECOLE\TIC deuxieme anné\cours\Deuxieme trimestre\ASP.NET\Lena_Hotel\Lena_Hotel\bin\Debug\Lena.BLL.dll
+G:\ECOLE\TIC deuxieme anné\cours\Deuxieme trimestre\ASP.NET\Lena_Hotel\Lena_Hotel\bin\Debug\Lena.BO.dll
+G:\ECOLE\TIC deuxieme anné\cours\Deuxieme trimestre\ASP.NET\Lena_Hotel\Lena_Hotel\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\ECOLE\TIC deuxieme anné\cours\Deuxieme trimestre\ASP.NET\Lena_Hotel\Lena_Hotel\bin\Debug\Lenas.DAL.dll
+G:\ECOLE\TIC deuxieme anné\cours\Deuxieme trimestre\ASP.NET\Lena_Hotel\Lena_Hotel\bin\Debug\Coffre_Fort.dll
+G:\ECOLE\TIC deuxieme anné\cours\Deuxieme trimestre\ASP.NET\Lena_Hotel\Lena_Hotel\bin\Debug\Lena.BLL.pdb
+G:\ECOLE\TIC deuxieme anné\cours\Deuxieme trimestre\ASP.NET\Lena_Hotel\Lena_Hotel\bin\Debug\Lena.BO.pdb
+G:\ECOLE\TIC deuxieme anné\cours\Deuxieme trimestre\ASP.NET\Lena_Hotel\Lena_Hotel\bin\Debug\Lenas.DAL.pdb
+G:\ECOLE\TIC deuxieme anné\cours\Deuxieme trimestre\ASP.NET\Lena_Hotel\Lena_Hotel\bin\Debug\Coffre_Fort.pdb
+G:\ECOLE\TIC deuxieme anné\cours\Deuxieme trimestre\ASP.NET\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.csprojResolveAssemblyReference.cache
+G:\ECOLE\TIC deuxieme anné\cours\Deuxieme trimestre\ASP.NET\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.Facture.resources
+G:\ECOLE\TIC deuxieme anné\cours\Deuxieme trimestre\ASP.NET\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.Form1.resources
+G:\ECOLE\TIC deuxieme anné\cours\Deuxieme trimestre\ASP.NET\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.FormHome_Stat.resources
+G:\ECOLE\TIC deuxieme anné\cours\Deuxieme trimestre\ASP.NET\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.FrmChoice.resources
+G:\ECOLE\TIC deuxieme anné\cours\Deuxieme trimestre\ASP.NET\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.frmFactChoice.resources
+G:\ECOLE\TIC deuxieme anné\cours\Deuxieme trimestre\ASP.NET\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.Home.resources
+G:\ECOLE\TIC deuxieme anné\cours\Deuxieme trimestre\ASP.NET\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.Properties.Resources.resources
+G:\ECOLE\TIC deuxieme anné\cours\Deuxieme trimestre\ASP.NET\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.SpashScreem.resources
+G:\ECOLE\TIC deuxieme anné\cours\Deuxieme trimestre\ASP.NET\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.StatClient.resources
+G:\ECOLE\TIC deuxieme anné\cours\Deuxieme trimestre\ASP.NET\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.StatFacture.resources
+G:\ECOLE\TIC deuxieme anné\cours\Deuxieme trimestre\ASP.NET\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.StatistiqueC.resources
+G:\ECOLE\TIC deuxieme anné\cours\Deuxieme trimestre\ASP.NET\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.StatLocaux.resources
+G:\ECOLE\TIC deuxieme anné\cours\Deuxieme trimestre\ASP.NET\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.Form1.aa.resources
+G:\ECOLE\TIC deuxieme anné\cours\Deuxieme trimestre\ASP.NET\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.Form1.fr-CD.resources
+G:\ECOLE\TIC deuxieme anné\cours\Deuxieme trimestre\ASP.NET\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.Form1.fr-FR.resources
+G:\ECOLE\TIC deuxieme anné\cours\Deuxieme trimestre\ASP.NET\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.Form1.fr-MA.resources
+G:\ECOLE\TIC deuxieme anné\cours\Deuxieme trimestre\ASP.NET\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.csproj.GenerateResource.Cache
+G:\ECOLE\TIC deuxieme anné\cours\Deuxieme trimestre\ASP.NET\Lena_Hotel\Lena_Hotel\obj\Debug\RdlCompile.cache
+G:\ECOLE\TIC deuxieme anné\cours\Deuxieme trimestre\ASP.NET\Lena_Hotel\Lena_Hotel\obj\Debug\RdlCompile.compiled
+G:\ECOLE\TIC deuxieme anné\cours\Deuxieme trimestre\ASP.NET\Lena_Hotel\Lena_Hotel\obj\Debug\aa\Lena_Hotel.resources.dll
+G:\ECOLE\TIC deuxieme anné\cours\Deuxieme trimestre\ASP.NET\Lena_Hotel\Lena_Hotel\obj\Debug\fr-CD\Lena_Hotel.resources.dll
+G:\ECOLE\TIC deuxieme anné\cours\Deuxieme trimestre\ASP.NET\Lena_Hotel\Lena_Hotel\obj\Debug\fr-FR\Lena_Hotel.resources.dll
+G:\ECOLE\TIC deuxieme anné\cours\Deuxieme trimestre\ASP.NET\Lena_Hotel\Lena_Hotel\obj\Debug\fr-MA\Lena_Hotel.resources.dll
+G:\Projet Important Hotel LENA\Lena_Hotel\Lena_Hotel\bin\Debug\Lena_Hotel.exe.config
+G:\Projet Important Hotel LENA\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.exe
+G:\Projet Important Hotel LENA\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.pdb
+G:\Projet Important Hotel LENA\Lena_Hotel\Lena_Hotel\bin\Debug\Lena_Hotel.exe
+G:\Projet Important Hotel LENA\Lena_Hotel\Lena_Hotel\bin\Debug\Lena_Hotel.pdb
+G:\Projet Important Hotel LENA\Lena_Hotel\Lena_Hotel\bin\Debug\aa\Lena_Hotel.resources.dll
+G:\Projet Important Hotel LENA\Lena_Hotel\Lena_Hotel\bin\Debug\fr-CD\Lena_Hotel.resources.dll
+G:\Projet Important Hotel LENA\Lena_Hotel\Lena_Hotel\bin\Debug\fr-FR\Lena_Hotel.resources.dll
+G:\Projet Important Hotel LENA\Lena_Hotel\Lena_Hotel\bin\Debug\fr-MA\Lena_Hotel.resources.dll
+G:\Projet Important Hotel LENA\Lena_Hotel\Lena_Hotel\bin\Debug\Lena.BLL.dll
+G:\Projet Important Hotel LENA\Lena_Hotel\Lena_Hotel\bin\Debug\Lena.BO.dll
+G:\Projet Important Hotel LENA\Lena_Hotel\Lena_Hotel\bin\Debug\Lenas.DAL.dll
+G:\Projet Important Hotel LENA\Lena_Hotel\Lena_Hotel\bin\Debug\Coffre_Fort.dll
+G:\Projet Important Hotel LENA\Lena_Hotel\Lena_Hotel\bin\Debug\Lena.BLL.pdb
+G:\Projet Important Hotel LENA\Lena_Hotel\Lena_Hotel\bin\Debug\Lena.BO.pdb
+G:\Projet Important Hotel LENA\Lena_Hotel\Lena_Hotel\bin\Debug\Lenas.DAL.pdb
+G:\Projet Important Hotel LENA\Lena_Hotel\Lena_Hotel\bin\Debug\Coffre_Fort.pdb
+G:\Projet Important Hotel LENA\Lena_Hotel\Lena_Hotel\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Projet Important Hotel LENA\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.csprojResolveAssemblyReference.cache
+G:\Projet Important Hotel LENA\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.Facture.resources
+G:\Projet Important Hotel LENA\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.Form1.resources
+G:\Projet Important Hotel LENA\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.FormHome_Stat.resources
+G:\Projet Important Hotel LENA\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.FrmChoice.resources
+G:\Projet Important Hotel LENA\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.frmFactChoice.resources
+G:\Projet Important Hotel LENA\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.Home.resources
+G:\Projet Important Hotel LENA\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.Properties.Resources.resources
+G:\Projet Important Hotel LENA\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.SpashScreem.resources
+G:\Projet Important Hotel LENA\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.StatClient.resources
+G:\Projet Important Hotel LENA\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.StatFacture.resources
+G:\Projet Important Hotel LENA\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.StatistiqueC.resources
+G:\Projet Important Hotel LENA\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.StatLocaux.resources
+G:\Projet Important Hotel LENA\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.Form1.aa.resources
+G:\Projet Important Hotel LENA\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.Form1.fr-CD.resources
+G:\Projet Important Hotel LENA\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.Form1.fr-FR.resources
+G:\Projet Important Hotel LENA\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.Form1.fr-MA.resources
+G:\Projet Important Hotel LENA\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.csproj.GenerateResource.Cache
+G:\Projet Important Hotel LENA\Lena_Hotel\Lena_Hotel\obj\Debug\aa\Lena_Hotel.resources.dll
+G:\Projet Important Hotel LENA\Lena_Hotel\Lena_Hotel\obj\Debug\fr-CD\Lena_Hotel.resources.dll
+G:\Projet Important Hotel LENA\Lena_Hotel\Lena_Hotel\obj\Debug\fr-FR\Lena_Hotel.resources.dll
+G:\Projet Important Hotel LENA\Lena_Hotel\Lena_Hotel\obj\Debug\fr-MA\Lena_Hotel.resources.dll
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.csprojAssemblyReference.cache
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.Facture.resources
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.Form1.resources
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.FormHome_Stat.resources
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.FrmChoice.resources
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.frmFactChoice.resources
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.Home.resources
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.Properties.Resources.resources
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.SpashScreem.resources
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.StatClient.resources
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.StatFacture.resources
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.StatistiqueC.resources
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.StatLocaux.resources
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.Form1.aa.resources
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.Form1.fr-CD.resources
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.Form1.fr-FR.resources
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.Form1.fr-MA.resources
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.csproj.GenerateResource.cache
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.csproj.CoreCompileInputs.cache
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.exe
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.pdb
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena_Hotel\bin\Debug\Lena_Hotel.exe.config
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena_Hotel\bin\Debug\Lena_Hotel.exe
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena_Hotel\bin\Debug\Lena_Hotel.pdb
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena_Hotel\bin\Debug\aa\Lena_Hotel.resources.dll
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena_Hotel\bin\Debug\fr-CD\Lena_Hotel.resources.dll
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena_Hotel\bin\Debug\fr-FR\Lena_Hotel.resources.dll
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena_Hotel\bin\Debug\fr-MA\Lena_Hotel.resources.dll
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena_Hotel\bin\Debug\Lena.BLL.dll
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena_Hotel\bin\Debug\Lena.BO.dll
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena_Hotel\bin\Debug\Lenas.DAL.dll
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena_Hotel\bin\Debug\Coffre_Fort.dll
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena_Hotel\bin\Debug\Lena.BLL.pdb
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena_Hotel\bin\Debug\Lena.BO.pdb
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena_Hotel\bin\Debug\Lenas.DAL.pdb
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena_Hotel\bin\Debug\Coffre_Fort.pdb
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena_Hotel\obj\Debug\aa\Lena_Hotel.resources.dll
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena_Hotel\obj\Debug\fr-CD\Lena_Hotel.resources.dll
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena_Hotel\obj\Debug\fr-FR\Lena_Hotel.resources.dll
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena_Hotel\obj\Debug\fr-MA\Lena_Hotel.resources.dll
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.csproj.CopyComplete
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena_Hotel\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena_Hotel\bin\Debug\MySql.Data.dll
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena_Hotel\bin\Debug\TooSharp.Core.dll
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena_Hotel\bin\Debug\Humanizer.dll
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena_Hotel\bin\Debug\TooSharp.Core.xml
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena_Hotel\obj\Debug\RdlCompile.cache
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena_Hotel\obj\Debug\RdlCompile.compiled
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena_Hotel\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena_Hotel\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena_Hotel\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena_Hotel\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena_Hotel\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena_Hotel\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena_Hotel\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena_Hotel\bin\Debug\Lena_Hotel.exe.config
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena_Hotel\bin\Debug\Lena_Hotel.exe
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena_Hotel\bin\Debug\Lena_Hotel.pdb
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena_Hotel\bin\Debug\aa\Lena_Hotel.resources.dll
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena_Hotel\bin\Debug\fr-CD\Lena_Hotel.resources.dll
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena_Hotel\bin\Debug\fr-FR\Lena_Hotel.resources.dll
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena_Hotel\bin\Debug\fr-MA\Lena_Hotel.resources.dll
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena_Hotel\bin\Debug\Lena.BLL.dll
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena_Hotel\bin\Debug\Lena.BO.dll
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena_Hotel\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena_Hotel\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena_Hotel\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena_Hotel\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena_Hotel\bin\Debug\Lenas.DAL.dll
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena_Hotel\bin\Debug\Coffre_Fort.dll
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena_Hotel\bin\Debug\Lena.BLL.pdb
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena_Hotel\bin\Debug\Lena.BO.pdb
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena_Hotel\bin\Debug\Lenas.DAL.pdb
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.csprojAssemblyReference.cache
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.Facture.resources
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.Form1.resources
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.FormHome_Stat.resources
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.FrmChoice.resources
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.frmFactChoice.resources
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.Home.resources
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.Properties.Resources.resources
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.SpashScreem.resources
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.StatClient.resources
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.StatFacture.resources
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.StatistiqueC.resources
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.StatLocaux.resources
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.Form1.aa.resources
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.Form1.fr-CD.resources
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.Form1.fr-FR.resources
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.Form1.fr-MA.resources
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.csproj.GenerateResource.cache
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.csproj.CoreCompileInputs.cache
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena_Hotel\obj\Debug\aa\Lena_Hotel.resources.dll
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena_Hotel\obj\Debug\fr-CD\Lena_Hotel.resources.dll
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena_Hotel\obj\Debug\fr-FR\Lena_Hotel.resources.dll
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena_Hotel\obj\Debug\fr-MA\Lena_Hotel.resources.dll
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.csproj.CopyComplete
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.exe
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.pdb
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena_Hotel\obj\Debug\Lena_Hotel.FormAdmin.resources
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena_Hotel\bin\Debug\Microsoft.ReportViewer.Common.dll

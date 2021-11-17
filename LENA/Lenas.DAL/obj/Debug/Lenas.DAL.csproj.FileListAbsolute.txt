@@ -1,0 +1,5 @@
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lenas.DAL\bin\Debug\Lenas.DAL.dll
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lenas.DAL\bin\Debug\Lenas.DAL.pdb
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lenas.DAL\obj\Debug\Lenas.DAL.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lenas.DAL\obj\Debug\Lenas.DAL.dll
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lenas.DAL\obj\Debug\Lenas.DAL.pdb

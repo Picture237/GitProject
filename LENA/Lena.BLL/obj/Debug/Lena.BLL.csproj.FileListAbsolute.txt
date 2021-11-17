@@ -1,0 +1,61 @@
+F:\Projet Important\Lena_Hotel\Lena.BLL\bin\Debug\Lena.BLL.dll
+F:\Projet Important\Lena_Hotel\Lena.BLL\bin\Debug\Lena.BLL.pdb
+F:\Projet Important\Lena_Hotel\Lena.BLL\obj\Debug\Lena.BLL.csprojResolveAssemblyReference.cache
+F:\Projet Important\Lena_Hotel\Lena.BLL\obj\Debug\Lena.BLL.dll
+F:\Projet Important\Lena_Hotel\Lena.BLL\obj\Debug\Lena.BLL.pdb
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lena.BLL\bin\Debug\Lena.BLL.dll
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lena.BLL\bin\Debug\Lena.BLL.pdb
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lena.BLL\bin\Debug\Lena.BO.dll
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lena.BLL\bin\Debug\Coffre_Fort.dll
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lena.BLL\bin\Debug\Lena.BO.pdb
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lena.BLL\bin\Debug\Coffre_Fort.pdb
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lena.BLL\obj\Debug\Lena.BLL.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lena.BLL\obj\Debug\Lena.BLL.dll
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lena.BLL\obj\Debug\Lena.BLL.pdb
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lena.BLL\bin\Debug\Lenas.DAL.dll
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Lena.BLL\bin\Debug\Lenas.DAL.pdb
+C:\Users\Picture\Documents\Lena_Hotel\Lena.BLL\bin\Debug\Lena.BLL.dll
+C:\Users\Picture\Documents\Lena_Hotel\Lena.BLL\bin\Debug\Lena.BLL.pdb
+C:\Users\Picture\Documents\Lena_Hotel\Lena.BLL\bin\Debug\Lena.BO.dll
+C:\Users\Picture\Documents\Lena_Hotel\Lena.BLL\bin\Debug\Lenas.DAL.dll
+C:\Users\Picture\Documents\Lena_Hotel\Lena.BLL\bin\Debug\Coffre_Fort.dll
+C:\Users\Picture\Documents\Lena_Hotel\Lena.BLL\bin\Debug\Lena.BO.pdb
+C:\Users\Picture\Documents\Lena_Hotel\Lena.BLL\bin\Debug\Lenas.DAL.pdb
+C:\Users\Picture\Documents\Lena_Hotel\Lena.BLL\bin\Debug\Coffre_Fort.pdb
+C:\Users\Picture\Documents\Lena_Hotel\Lena.BLL\obj\Debug\Lena.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Picture\Documents\Lena_Hotel\Lena.BLL\obj\Debug\Lena.BLL.dll
+C:\Users\Picture\Documents\Lena_Hotel\Lena.BLL\obj\Debug\Lena.BLL.pdb
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena.BLL\obj\Debug\Lena.BLL.csprojAssemblyReference.cache
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena.BLL\obj\Debug\Lena.BLL.csproj.CoreCompileInputs.cache
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena.BLL\obj\Debug\Lena.BLL.dll
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena.BLL\obj\Debug\Lena.BLL.pdb
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena.BLL\bin\Debug\Lena.BLL.dll
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena.BLL\bin\Debug\Lena.BLL.pdb
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena.BLL\bin\Debug\Lena.BO.dll
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena.BLL\bin\Debug\Lenas.DAL.dll
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena.BLL\bin\Debug\Coffre_Fort.dll
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena.BLL\bin\Debug\Lena.BO.pdb
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena.BLL\bin\Debug\Lenas.DAL.pdb
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena.BLL\bin\Debug\Coffre_Fort.pdb
+E:\Cours Génie Logiciel BTS LV2\Rapport Stage Model\Lena_Hotel\Lena.BLL\obj\Debug\Lena.BLL.csproj.CopyComplete
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena.BLL\bin\Debug\Lena.BLL.dll
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena.BLL\bin\Debug\Lena.BLL.pdb
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena.BLL\bin\Debug\Lena.BO.dll
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena.BLL\bin\Debug\Lenas.DAL.dll
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena.BLL\bin\Debug\Coffre_Fort.dll
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena.BLL\bin\Debug\Lena.BO.pdb
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena.BLL\bin\Debug\Lenas.DAL.pdb
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena.BLL\obj\Debug\Lena.BLL.csprojAssemblyReference.cache
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena.BLL\obj\Debug\Lena.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena.BLL\obj\Debug\Lena.BLL.csproj.CopyComplete
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena.BLL\obj\Debug\Lena.BLL.dll
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena.BLL\obj\Debug\Lena.BLL.pdb
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena.BLL\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena.BLL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena.BLL\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena.BLL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena.BLL\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena.BLL\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena.BLL\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena.BLL\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Erwan\Desktop\Lena_Hotel\Lena.BLL\bin\Debug\Microsoft.SqlServer.Types.dll

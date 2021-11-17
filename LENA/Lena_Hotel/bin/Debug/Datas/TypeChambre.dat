@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeChambre xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TypeChambre>
+    <IdType>2</IdType>
+    <Intitule>Apparttement</Intitule>
+  </TypeChambre>
+  <TypeChambre>
+    <IdType>3</IdType>
+    <Intitule>Villa</Intitule>
+  </TypeChambre>
+  <TypeChambre>
+    <IdType>4</IdType>
+    <Intitule>Studio</Intitule>
+  </TypeChambre>
+  <TypeChambre>
+    <IdType>5</IdType>
+    <Intitule>Chambres</Intitule>
+  </TypeChambre>
+</ArrayOfTypeChambre>

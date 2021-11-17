@@ -1,0 +1,8 @@
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Test\bin\Debug\Test.exe.config
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Test\bin\Debug\Test.exe
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Test\bin\Debug\Test.pdb
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Test\obj\Debug\Test.Form1.resources
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Test\obj\Debug\Test.exe
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\Test\obj\Debug\Test.pdb

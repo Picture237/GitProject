@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfClasseFacture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ClasseFacture>
+    <Date_arriveF>2018-01-17T00:38:12.5851402+01:00</Date_arriveF>
+    <Date_DepartF>2018-01-17T00:38:12.5846397+01:00</Date_DepartF>
+    <Duree_sejourF>0</Duree_sejourF>
+    <Montant_totalF>850000</Montant_totalF>
+    <Reste_a_payer>384535</Reste_a_payer>
+    <Prix_Unitaire>465465</Prix_Unitaire>
+    <NomF>kbkn</NomF>
+    <ProfessionF />
+    <Id>101</Id>
+    <IdShow>Lena1012018</IdShow>
+  </ClasseFacture>
+  <ClasseFacture>
+    <Date_arriveF>2018-01-27T11:27:58.6164871+01:00</Date_arriveF>
+    <Date_DepartF>2018-01-27T11:27:58.6164871+01:00</Date_DepartF>
+    <Duree_sejourF>0</Duree_sejourF>
+    <Montant_totalF>850000</Montant_totalF>
+    <Reste_a_payer>726768</Reste_a_payer>
+    <Prix_Unitaire>123232</Prix_Unitaire>
+    <NomF>cvxvx</NomF>
+    <ProfessionF />
+    <Id>102</Id>
+    <IdShow>Lena1022018</IdShow>
+  </ClasseFacture>
+  <ClasseFacture>
+    <Date_arriveF>2020-03-14T04:31:04</Date_arriveF>
+    <Date_DepartF>2020-03-21T04:31:04</Date_DepartF>
+    <Duree_sejourF>7</Duree_sejourF>
+    <Montant_totalF>105000</Montant_totalF>
+    <Reste_a_payer>0</Reste_a_payer>
+    <Prix_Unitaire>105000</Prix_Unitaire>
+    <NomF>Ebongue</NomF>
+    <ProfessionF>Developeur</ProfessionF>
+    <Id>0</Id>
+    <IdShow>Lena02020</IdShow>
+  </ClasseFacture>
+</ArrayOfClasseFacture>

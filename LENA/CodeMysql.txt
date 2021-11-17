@@ -1,0 +1,100 @@
+Imports MySql.Data.MySqlClient
+Imports MySql.Data
+
+
+Public Class Form1
+
+    Dim con As New MySqlConnection("Data source=localhost;user id= root; password=; Database = iuget1")
+    Dim cmd As New MySqlCommand
+    Dim da As New MySqlDataAdapter
+    Dim dt As New DataTable
+
+    Public Sub load()
+        cmd.CommandText = "SELECT * FROM commande"
+        cmd.Connection = con
+        da = New MySqlDataAdapter(cmd)
+        da.Fill(dt)
+        DataGridView1.DataSource = dt
+    End Sub
+
+    Private Sub btnadd_Click(sender As Object, e As EventArgs) Handles btnadd.Click
+        cmd.CommandText = "INSERT INTO commande(Numero,Quantite,Nom_Produit,Prix,Nom_Client) VALUES('" & txtnum.Text & "', '" & txtqte.Text & "', '" & txtnomP.Text & "', '" & txtprix.Text & "', '" & txtnomC.Text & "')"
+        cmd.Connection = con
+        con.Open()
+        cmd.ExecuteNonQuery()
+        con.Close()
+        txtnum.Clear()
+        txtnomP.Clear()
+        txtprix.Clear()
+        txtnomC.Clear()
+        txtqte.Clear()
+        load()
+    End Sub
+
+    Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        load()
+    End Sub
+
+    Private Sub btnupdate_Click(sender As Object, e As EventArgs) Handles btnupdate.Click
+        cmd.CommandText = "UPDATE commande SET Numero ='" & txtnum.Text & "',Quantite='" & txtqte.Text & "', Nom_Produit ='" & txtnomP.Text & "', Prix='" & txtprix.Text & "', Nom_Client='" & txtnomC.Text & "' WHERE ID = '" & txtid.Text & "' "
+        cmd.Connection = con
+        con.Open()
+        cmd.ExecuteNonQuery()
+        con.Close()
+        txtnum.Clear()
+        txtnomP.Clear()
+        txtprix.Clear()
+        txtnomC.Clear()
+        txtqte.Clear()
+        txtid.Clear()
+        load()
+    End Sub
+
+    Private Sub btndelete_Click(sender As Object, e As EventArgs) Handles btndelete.Click
+        cmd.CommandText = "DELETE FROM commande WHERE ID = '" & txtid.Text & "'"
+        cmd.Connection = con
+        con.Open()
+        cmd.ExecuteNonQuery()
+        con.Close()
+        txtnum.Clear()
+        txtnomP.Clear()
+        txtprix.Clear()
+        txtnomC.Clear()
+        txtqte.Clear()
+        txtid.Clear()
+        load()
+    End Sub
+
+    Private Sub DataGridView1_CellClick(sender As Object, e As DataGridViewCellEventArgs) Handles DataGridView1.CellClick
+        txtid.Text = DataGridView1.CurrentRow.Cells(0).Value.ToString()
+        txtnum.Text = DataGridView1.CurrentRow.Cells(1).Value.ToString()
+        txtnomP.Text = DataGridView1.CurrentRow.Cells(3).Value.ToString()
+        txtqte.Text = DataGridView1.CurrentRow.Cells(2).Value.ToString()
+        txtprix.Text = DataGridView1.CurrentRow.Cells(4).Value.ToString()
+        txtnomC.Text = DataGridView1.CurrentRow.Cells(5).Value.ToString()
+    End Sub
+
+    Private Sub txtrnum_TextChanged(sender As Object, e As EventArgs) Handles txtrnum.TextChanged
+        Dim req As String = "SELECT * FROM commande WHERE Numero LIKE '" & txtrnum.Text & "%'"
+        da = New MySqlDataAdapter(req, con)
+        dt = New DataTable(req)
+        da.Fill(dt)
+        DataGridView1.DataSource = dt
+    End Sub
+
+    Private Sub txtrnomP_TextChanged(sender As Object, e As EventArgs) Handles txtrnomP.TextChanged
+        Dim req As String = "SELECT * FROM commande WHERE Nom_Produit LIKE '" & txtrnomP.Text & "%'"
+        da = New MySqlDataAdapter(req, con)
+        dt = New DataTable(req)
+        da.Fill(dt)
+        DataGridView1.DataSource = dt
+    End Sub
+
+    Private Sub txtrnomC_TextChanged(sender As Object, e As EventArgs) Handles txtrnomC.TextChanged
+        Dim req As String = "SELECT * FROM commande WHERE Nom_Client LIKE '" & txtrnomC.Text & "%'"
+        da = New MySqlDataAdapter(req, con)
+        dt = New DataTable(req)
+        da.Fill(dt)
+        DataGridView1.DataSource = dt
+    End Sub
+End Class

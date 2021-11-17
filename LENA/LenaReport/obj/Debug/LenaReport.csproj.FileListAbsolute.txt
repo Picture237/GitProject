@@ -1,0 +1,10 @@
+F:\Projet Important\Lena_Hotel\LenaReport\obj\Debug\LenaReport.csprojResolveAssemblyReference.cache
+F:\Projet Important\Lena_Hotel\LenaReport\obj\Debug\LenaReport.Statistique.resources
+F:\Projet Important\Lena_Hotel\LenaReport\obj\Debug\LenaReport.csproj.GenerateResource.Cache
+F:\Projet Important\Lena_Hotel\LenaReport\obj\Debug\RdlCompile.cache
+F:\Projet Important\Lena_Hotel\LenaReport\obj\Debug\RdlCompile.compiled
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\LenaReport\obj\Debug\LenaReport.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\LenaReport\obj\Debug\LenaReport.Statistique.resources
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\LenaReport\obj\Debug\LenaReport.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\LenaReport\obj\Debug\RdlCompile.cache
+C:\Users\user\Downloads\Telegram Desktop\Lena_Hotel\LenaReport\obj\Debug\RdlCompile.compiled
